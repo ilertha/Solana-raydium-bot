@@ -21,7 +21,7 @@ async function main() {
 		console.log("5. Reclaim SOL/WSOL");
 		console.log("Type 'exit' to quit.");
 
-		const answer = prompt("Choose an option or 'exit': "); // Use prompt-sync for user input
+		const answer = prompt("Choose an option or 'exit': "); // Use prompt sync for user input
 
 		switch (answer) {
 			case "1":

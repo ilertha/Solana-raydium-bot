@@ -57,7 +57,7 @@ Retrieve remaining funds from the keypairs, consolidating WSOL and SOL back to t
 
 ## Additional Support
 
-For comprehensive guidance and updates, directly contact @james980114 on X. Extended documentation and support are available to assist with any queries.
+For comprehensive guidance and updates, directly contact @ethualtera on X. Extended documentation and support are available to assist with any queries.
 
 ### Conclusion
 
